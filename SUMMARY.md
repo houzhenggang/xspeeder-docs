@@ -6,6 +6,9 @@
   * [5.1 运营商宽带二次认证-PPPOE代拨方案](pages/solution/isp_pppoe_proxy.md)
   * [5.2 高校多运营商联合运营-PPPOE代拨方案](pages/solution/university_pppoe_proxy.md)
 * [6. 操作手册](pages/opt/opt.md)
+  * [6.1 控制面板](pages/opt/dashboard.md)
+  * [6.2 监控中心](pages/opt/monitor.md)
+    * [6.2.1 应用排名](pages/opt/apptop.md)
 * [7. 配置案例](pages/simples/simples.md)
   * [7.1. WEB认证配置](pages/simples/web_auth_config.md)
 

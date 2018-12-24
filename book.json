@@ -3,6 +3,7 @@
     "generator": "site",
     "title": "神行者路由用户手册",
     "author": "www.xspeeder.com",
+    "language": "zh",
     "description": "",
     "isbn": "",
     "extension": "",
@@ -11,7 +12,8 @@
         "-highlight"
     ],
     "style":{
-        "website":"styles/website.css"
+        "website":"styles/website.css",
+        "pdf":"styles/pdf.css"
     },
     "pluginsConfig": {
         "fontSettings": {
@@ -23,7 +25,9 @@
             "showLevel": true
         },
         "plugins": [
-          "yahei"
+          "yahei",
+          "katex",
+          "-search"
         ]
     },
     "variables": {},
@@ -34,7 +38,7 @@
     },
     "pdf": {
         "toc": true,
-        "pageNumbers": false,
+        "pageNumbers": true,
         "fontSize": 12,
         "paperSize": "a4",
         "margin": {

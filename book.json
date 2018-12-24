@@ -9,6 +9,7 @@
     "extension": "",
     "plugins": [
         "prism",
+        "changyan",
         "-highlight"
     ],
     "style":{
@@ -16,6 +17,10 @@
         "pdf":"styles/pdf.css"
     },
     "pluginsConfig": {
+        "changyan": {
+            "appid": "cyu03HWbz",
+            "conf": "prod_97118939dfcd7ee0f37cd2fcc15827e6"
+        },
         "fontSettings": {
           "theme": "white",
           "family": "msyh",

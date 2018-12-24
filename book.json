@@ -39,13 +39,13 @@
     "pdf": {
         "toc": true,
         "pageNumbers": true,
-        "fontSize": 12,
+        "fontSize": 13,
         "paperSize": "a4",
         "margin": {
-            "right": 36,
-            "left": 36,
-            "top": 48,
-            "bottom": 48
+            "right": 20,
+            "left": 20,
+            "top": 20,
+            "bottom": 20
         }
     }
 }

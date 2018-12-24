@@ -1,5 +1,5 @@
 {
-    "name": "baas",
+    "name": "xspeeder",
     "version": "0.0.0",
     "dependencies": {
         "gitbook-plugin-prism": "*",

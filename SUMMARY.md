@@ -1,5 +1,5 @@
 * [1. 服务支持](pages/support.md)
-* [2. 产品发布记录](pages/versions.md)
+* [2. 产品发布记录](pages/changelogs/changelogs.md)
 * [3. 快速开始](pages/quickstart.md)
 * [4. 常见问题](pages/faqs.md)
 * [5. 解决方案](pages/solution/solution.md)
